@@ -1,6 +1,6 @@
 # EDA_of_Superstore_using_python
 
-I have done an EDA(exploratory data analysis) on Superstore_sales using Python(Jupyter library).
+I have done an EDA(exploratory data analysis) on Superstore_sales using Python(Jupyter notebook).
 
 -->performed data cleaning and manipulation using numpy and pandas library
 
